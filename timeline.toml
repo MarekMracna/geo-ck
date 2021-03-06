@@ -1,0 +1,50 @@
+[[tl]]
+type = "place"
+name = "Letisko Heathrow"
+city = "Londýn"
+time = 2021-03-10 15:05:00+00:00
+
+[[tl]]
+type = "transport"
+vehicle = "Lietadlom"
+duration = "7 hodín 25 minút"
+
+[[tl]]
+type = "place"
+name = "Letisko Hamad"
+city = "Doha (Katar)"
+time = 2021-03-10 22:30:00+03:00
+
+[[tl]]
+type = "transport"
+vehicle = "Lietadlom"
+duration = "10 hodín 25 minút"
+
+[[tl]]
+type = "place"
+name = "Letisko Narita"
+city = "Tokyo"
+time = 2021-03-11 17:55:00+09:00
+
+[[tl]]
+type = "transport"
+vehicle = "Autom"
+duration = "1 hodina"
+
+[[tl]]
+type = "place"
+name = "Hostel Sadou"
+city = "Tokyo"
+time = 2021-03-11 19:00:00+09:00
+
+[[tl]]
+type = "transport"
+vehicle = "Pešo"
+duration = "40 minút"
+
+[[tl]]
+type = "place"
+name = "LaQua"
+city = "Tokyo"
+time = 2021-03-11 19:40:00+09:00
+

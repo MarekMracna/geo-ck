@@ -2,6 +2,7 @@
 	font-size: 14px;
 	font-family: 'Segoe UI';
 	--background: #fafafa;
+	--red: rgb(185, 31, 31);
 }
 
 * {

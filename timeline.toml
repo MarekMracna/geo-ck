@@ -42,9 +42,9 @@ duration = "1 hodina"
 
 [[tl]]
 type = "place"
-name = "Hostel Sadou"
+name = "Hotel Tokyo Trip"
 city = "Tokyo"
-picture = "https://pic.pimg.tw/finn321/1550219869-859691948_n.png"
+picture = "https://media-cdn.tripadvisor.com/media/photo-w/1b/eb/fe/f9/caption.jpg"
 time = 2021-03-11 19:00:00+09:00
 
 [[tl]]
@@ -140,7 +140,7 @@ duration = "1 hodina"
 
 [[tl]]
 type = "place"
-name = "Hostel Sadou"
+name = "Hotel Tokyo Trip"
 city = "Tokyo"
 time = 2021-03-12 20:30:00+09:00
 

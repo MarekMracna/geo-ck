@@ -479,7 +479,8 @@ type = "place"
 name = "Prechádzka po Nikko"
 city = "Nikko"
 duration = "1 hodín"
-picture = "https://static.thousandwonders.net/Nikko.original.35344.jpg"
+#picture = "https://static.thousandwonders.net/Nikko.original.35344.jpg"
+picture = "http://2.bp.blogspot.com/-tsOn1g-MPDw/VavTGWFrd7I/AAAAAAAAClw/P0P6GHmwaTc/s400/Nikko%252BCity%25252C%252BJapan..png"
 time = 2021-03-12 11:00:00+09:00
 
 [[tl]]

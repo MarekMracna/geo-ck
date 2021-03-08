@@ -20,7 +20,3 @@ html, body {
 body {
 	background: var(--background);
 }
-
-.hidden {
-	height: 0;
-}

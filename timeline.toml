@@ -1,12 +1,14 @@
 [[tl]]
 type = "day"
-number = 1
+number = 0
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d26114059.590989105!2d7.515177555947655!3d36.96799337920448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e4!4m5!1s0x48767175ba8c845b%3A0xe983bc1ac0d4eefb!2sHeathrow%20Terminal%205%2C%20Longford%2C%20Hounslow%2C%20Spojen%C3%A9%20kr%C3%A1%C4%BEovstvo!3m2!1d51.471388499999996!2d-0.4877607!4m5!1s0x3e45c8b0c158d6a5%3A0x855137ed2fed30d3!2sHamad%20International%20Airport%2C%20Doha%2C%20Katar!3m2!1d25.2608759!2d51.613841699999995!5e0!3m2!1ssk!2ssk!4v1615214422528!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
 
 [[tl]]
 type = "place"
 name = "Letisko Heathrow"
 city = "Londýn"
 time = 2021-03-10 15:05:00+00:00
+price = 4520
 picture = "https://thepointsguy.com/wp-content/uploads/2015/10/heathrow.png"
 
 [[tl]]
@@ -18,6 +20,7 @@ duration = "7 hodín 25 minút"
 type = "place"
 name = "Letisko Hamad"
 city = "Doha (Katar)"
+desc = "Prestupové letisko"
 time = 2021-03-10 22:30:00+03:00
 
 [[tl]]
@@ -27,7 +30,9 @@ duration = "10 hodín 25 minút"
 
 [[tl]]
 type = "day"
-number = 2
+number = 1
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d414609.44356960116!2d139.79260039325038!3d35.72286682857923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x6022f379d1bd3757%3A0xd56e29a162771aa1!2sMedzin%C3%A1rodn%C3%A9%20letisko%20Narita%20(NRT)%2C%201-1%20%E5%8F%A4%E8%BE%BC%20Narita-shi%2C%20Chiba-ken%20282-0004%2C%20Japonsko!3m2!1d35.7719867!2d140.3928501!4m5!1s0x60188d6fa3f25feb%3A0x6520e07aab0367b5!2zSE9URUwgVE9LWU8gVFJJUCwg44K444Kn44Kk44Kz44O844OI6KW_5pel5pqu6YeMIDUgQ2hvbWUtMTggTmlzaGluaXBwb3JpLCBBcmFrYXdhIENpdHksIFRva2lvLCBKYXBvbnNrbw!3m2!1d35.7317423!2d139.7684547!4m5!1s0x60188c386f25b02d%3A0x971c1c811b2ad84b!2zTGFRdWEsIOODqeOCr-ODvOOCouODk-ODqyAxIENob21lLTEgS2FzdWdhLCBCdW5reW8gQ2l0eSwgVG9raW8sIEphcG9uc2tv!3m2!1d35.7068133!2d139.7533408!4m5!1s0x60188d6fa3f25feb%3A0x6520e07aab0367b5!2zSE9URUwgVE9LWU8gVFJJUCwg44K444Kn44Kk44Kz44O844OI6KW_5pel5pqu6YeMIDUgQ2hvbWUtMTggTmlzaGluaXBwb3JpLCBBcmFrYXdhIENpdHksIFRva2lvLCBKYXBvbnNrbw!3m2!1d35.7317423!2d139.7684547!5e0!3m2!1ssk!2ssk!4v1615214915223!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
+
 
 [[tl]]
 type = "place"
@@ -44,6 +49,8 @@ duration = "1 hodina"
 type = "place"
 name = "Hotel Tokyo Trip"
 city = "Tokyo"
+price = 306
+desc = "Lacné a komfortné ubytovanie v centre Tokya."
 picture = "https://media-cdn.tripadvisor.com/media/photo-w/1b/eb/fe/f9/caption.jpg"
 time = 2021-03-11 19:00:00+09:00
 
@@ -56,17 +63,23 @@ duration = "40 minút"
 type = "place"
 name = "LaQua"
 city = "Tokyo"
+price = 217
+desc = "Zábavný park, termálne kúpele a množstvo ďalších atrakcií."
 picture = "https://www.jpvisitor.com/images/content/20171017/abaa7b8a8f5b5b45.png"
 time = 2021-03-11 19:40:00+09:00
 
 [[tl]]
 type = "day"
-number = 3
+number = 2
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d415031.60559645214!2d139.71949155813078!3d35.6416671462001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x60188d6fa3f25feb%3A0x6520e07aab0367b5!2sHOTEL%20TOKYO%20TRIP%2C%205%20Chome-18-14%20Nishinippori%2C%20Arakawa%20City%2C%20Tokio%2C%20Japonsko!3m2!1d35.7317423!2d139.7684547!4m5!1s0x60188c386f25b02d%3A0x971c1c811b2ad84b!2sJaponsko%2C%20TokioBunkyo%20City%2C%20Kasuga1%20Chome%E2%88%921%E2%88%921%20LaQua!3m2!1d35.7068133!2d139.7533408!4m5!1s0x60188b63fb3c4ec5%3A0xd0ca2110e541cb1c!2sNezu%20Museum%2C%206%20Chome-5-1%20Minami-Aoyama%2C%20Minato%20City%2C%20Tokio%2C%20Japonsko!3m2!1d35.6622568!2d139.7170937!4m5!1s0x60188a576499560b%3A0xe79fce7420fcb518!2sMaxell%20Aqua%20Park%2C%204%20Chome-10-30%20Takanawa%2C%20Minato%20City%2C%20Tokio%2C%20Japonsko!3m2!1d35.627829399999996!2d139.7350866!4m5!1s0x602295f617bfd353%3A0x35d98bdd9e335db5!2sHoki%20Museum%2C%203%20Chome-3-15%20Asumigaokahigashi%2C%20Midori%20Ward%2C%20%C4%8Ciba%2C%20Japonsko!3m2!1d35.521999699999995!2d140.2799522!4m5!1s0x602295050e0d85a9%3A0xe48711d577fdfe3a!2sJaponsko%2C%20%C4%8CibaMidori%20Ward%2C%20Asumigaokahigashi%2C%202%20Chome%E2%88%9220%E2%88%923%20RESTAURANT%20MEGUMI!3m2!1d35.5249416!2d140.27925729999998!4m5!1s0x60188d6fa3f25feb%3A0x6520e07aab0367b5!2zSE9URUwgVE9LWU8gVFJJUCwg44K444Kn44Kk44Kz44O844OI6KW_5pel5pqu6YeMIDUgQ2hvbWUtMTggTmlzaGluaXBwb3JpLCBBcmFrYXdhIENpdHksIFRva2lvLCBKYXBvbnNrbw!3m2!1d35.7317423!2d139.7684547!5e0!3m2!1ssk!2ssk!4v1615213912308!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
+
 
 [[tl]]
 type = "place"
 name = "Ulice Tokya"
 city = "Tokyo"
+price = 50
+desc = "Ponúkajú lacné, rýchle a tradičné jedlá Japonska."
 picture = "https://media.timeout.com/images/102541625/750/422/image.jpg"
 time = 2021-03-12 08:00:00+09:00
 
@@ -79,6 +92,8 @@ duration = "15 minút"
 type = "place"
 name = "Nezu múzeum"
 city = "Tokyo"
+price = 83
+desc = "Múzeum umenia, ponúka súkromnú zbierku moderného japonského a východoázijského umenia."
 picture = "https://cdn.ca.emap.com/wp-content/uploads/sites/12/2010/04/Nezumuseum-1024x610.jpg"
 time = 2021-03-12 10:00:00+09:00
 duration = "2 hodiny"
@@ -92,6 +107,8 @@ duration = "15 minút"
 type = "place"
 city = "Tokyo"
 name = "McDonald's"
+price = 50
+desc = "Rýchle občerstvenie, obľúbené najmä Čižmárom."
 time = 2021-03-12 12:30:00+09:00
 
 [[tl]]
@@ -103,6 +120,8 @@ duration = "10 minút"
 type = "place"
 city = "Tokyo"
 name = "Maxell Aqua Park"
+price = 108
+desc = "Verejné akvárium umiestnené v hoteli Shinagawa Prince v Tokyu."
 picture = "https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/798542_Maxell%20Aqua%20Park%20Shinagawa_Management%20Photo_TA_UGC.jpg"
 time = 2021-03-12 13:15:00+09:00
 duration = "2 hodiny 45 minút"
@@ -116,6 +135,8 @@ duration = "1 hodina 17 minút"
 type = "place"
 name = "Hoki múzeum"
 city = "Tokyo"
+price = 60
+desc = "Múzeum realistického umenia."
 picture = "https://images.adsttc.com/media/images/5004/cb85/28ba/0d4e/8d00/02ce/slideshow/stringio.jpg?1414527891"
 time = 2021-03-12 17:20:00+09:00
 duration = "1 hodina"
@@ -129,6 +150,8 @@ duration = "10 minút"
 type = "place"
 name = "Megumi Restaurant"
 city = "Tokyo"
+price = 100
+desc = "Klasická japonská reštaurácia."
 picture = "https://limzx.files.wordpress.com/2011/07/megumi-japanese-restaurant.jpg"
 time = 2021-03-12 18:30:00+09:00
 duration = "50 minút"
@@ -150,19 +173,26 @@ vehicle = "Autom"
 duration = "2 hodiny"
 
 [[tl]]
-type = "place"
-name = "Hoshinoya Fuji hotel"
-city = "Hoshinoya"
-picture = "https://d3s3ousecbrwfp.cloudfront.net/images/2013/10/20071316/f5ecb17ce5226bd41ccd42552f557604.jpg"
-time = 2021-03-12 10:00:00+09:00
+type = "day"
+number = 3
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d830321.5661303484!2d138.67714844064858!3d35.61678875475865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x60188d6fa3f25feb%3A0x6520e07aab0367b5!2zSE9URUwgVE9LWU8gVFJJUCwg44K444Kn44Kk44Kz44O844OI6KW_5pel5pqu6YeMIDUgQ2hvbWUtMTggTmlzaGluaXBwb3JpLCBBcmFrYXdhIENpdHksIFRva2lvLCBKYXBvbnNrbw!3m2!1d35.7317423!2d139.7684547!4m5!1s0x60195f082728b88b%3A0x547c78726a109356!2sHOSHINOYA%20Fuji%2C%20Oishi%2C%20Fujikawaguchiko%2C%20Jamana%C5%A1i%2C%20Japonsko!3m2!1d35.5260415!2d138.74702399999998!4m5!1s0x601bdf0c6caa7c4f%3A0xdcbd8aad3cfb1b0c!2sNarusawa%2C%20Jamana%C5%A1i%2C%20Japonsko!3m2!1d35.4813342!2d138.70642229999999!4m5!1s0x60195fa6dff9d539%3A0x9f0da347a1730763!2zSmFwb25za28sIEphbWFuYcWhaUZ1amlrYXdhZ3VjaGlrbywgxYxpc2hpLCAyNTg1IOOBu-OBhuOBqOOBhuWkpw!3m2!1d35.5235554!2d138.7455051!4m5!1s0x60195f0a70a3ae05%3A0x5917b8f559e0d4ae!2sHOSHINOYA%20Fuji%2C%201408%20%C5%8Cishi%2C%20Fujikawaguchiko%2C%20Jamana%C5%A1i%2C%20Japonsko!3m2!1d35.525409499999995!2d138.7453346!5e0!3m2!1ssk!2ssk!4v1615214802984!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
 
 [[tl]]
 type = "place"
-desc = "Skupina 1"
+name = "Hoshinoya Fuji hotel"
+city = "Hoshinoya"
+price = 4000
+desc = "Luxusný hotel" 
+picture = "https://d3s3ousecbrwfp.cloudfront.net/images/2013/10/20071316/f5ecb17ce5226bd41ccd42552f557604.jpg"
+time = 2021-03-13 10:00:00+09:00
+
+[[tl]]
+type = "place"
 name = "Jazero Kawaguchi+okolie Fuji"
 city = "Národný park Fuji-Hakone-Izu"
+desc = "Skupina 1\nPrechádzka v prírode a okolí jazera Kawaguchi."
 picture = "https://www.touristjourney.com/wp-content/uploads/2019/01/Lake-Kawaguchi.jpg"
-time = 2021-03-12 11:00:00+09:00
+time = 2021-03-13 11:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -172,12 +202,12 @@ duration = "45 minút"
 
 [[tl]]
 type = "place"
-desc = "Skupina 2"
 name = "Narusawa-Fuji"
 city = "Národný park Fuji-Hakone-Izu"
+desc = "Skupina 2\nNáročnejšia turistika v národnom parku, ktorého srdcom je rozsiahle sopečné pásmo."
 picture = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mount_Harinoki_and_Mount_Akasawa_from_Mount_Narusawa_s2.jpg/800px-Mount_Harinoki_and_Mount_Akasawa_from_Mount_Narusawa_s2.jpg"
 duration = "7 hodín"
-time = 2021-03-12 11:45:00+09:00
+time = 2021-03-13 11:45:00+09:00
 
 [[tl]]
 type = "transport"
@@ -190,7 +220,7 @@ type = "place"
 desc = "Skupina 2"
 name = "Hoshinoya Fuji hotel"
 city = "Hoshinoya"
-time = 2021-03-12 18:30:00+09:00
+time = 2021-03-13 18:30:00+09:00
 
 [[tl]]
 type = "transport"
@@ -201,8 +231,10 @@ duration = "10 minút"
 type = "place"
 name = "Reštaurácia Hótódai"
 city = "Hoshinoya"
+price = 30
+desc = "Tradičné domáce jedlo v prekvapivo lacnej miestnej reštaurácii."
 picture = "https://media-cdn.tripadvisor.com/media/photo-w/1c/0d/ae/ea/photo2jpg.jpg"
-time = 2021-03-12 19:30:00+09:00
+time = 2021-03-13 19:30:00+09:00
 
 [[tl]]
 type = "transport"
@@ -213,11 +245,12 @@ duration = "10 minút"
 type = "place"
 name = "Hoshinoya Fuji hotel"
 city = "Hoshinoya"
-time = 2021-03-12 20:30:00+09:00
+time = 2021-03-13 20:30:00+09:00
 
 [[tl]]
 type = "day"
 number = 4
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d3317819.8442986435!2d135.198006818601!3d35.70017943887127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x60195f082728b88b%3A0x547c78726a109356!2sHOSHINOYA%20Fuji!3m2!1d35.5260415!2d138.74702399999998!4m5!1s0x60022b2b5dbfdbc3%3A0xee2a210b78298c30!2sHikone%20Castle!3m2!1d35.276452!2d136.251846!4m5!1s0x6003d4c7684c2c25%3A0x4801df7b11f6fac!2sSushiro!3m2!1d35.2694937!2d136.26609879999998!4m5!1s0x600108d385dcfb07%3A0x62af658650c434ba!2sKiyomizu-dera!3m2!1d34.9948561!2d135.7850463!4m5!1s0x600133f2c85d8007%3A0xa5bb584a1959300b!2sHasedera!3m2!1d34.5627807!2d135.81983549999998!4m5!1s0x6006d104cf592653%3A0x3432accc2f3a2a6e!2sGuest%20House%20Iroha!3m2!1d34.3515818!2d135.69854329999998!4m5!1s0x6006d11b9ea388e5%3A0xcd01f8930186f83a!2sAeon!3m2!1d34.3533669!2d135.70206199999998!4m5!1s0x6006d104cf592653%3A0x3432accc2f3a2a6e!2zSmFwb25za28sIE5hcmFHb2pvLCAyIENob21l4oiSMuKIkjIyIEd1ZXN0IEhvdXNlIElST0hBICjvvbnvvp7vvb3vvoTvvorvvbPvvb0g44GE44KN44GvKQ!3m2!1d34.3515818!2d135.69854329999998!5e0!3m2!1ssk!2ssk!4v1615458043629!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
 
 [[tl]]
 type = "transport"
@@ -229,8 +262,9 @@ type = "place"
 name = "Hrad Hikone"
 city = "Hikone"
 duration = "1 hodina"
+desc = "Patrí medzi päť národných pokladov Japonska. Taktiež je považovaný za najdôležitejšiu budovu v Šige."
 picture = "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2019/03/Hikone-castle-1024x631.jpg"
-time = 2021-03-12 11:30:00+09:00
+time = 2021-03-14 11:30:00+09:00
 
 [[tl]]
 type = "transport"
@@ -241,14 +275,16 @@ duration = "15 minút"
 type = "place"
 name = "Občerstvenie Sushiro takeout"
 city = "Hikone"
-time = 2021-03-12 12:45:00+09:00
+price = 40
+desc = "Rýchle občerstveie."
+time = 2021-03-14 12:45:00+09:00
 
 [[tl]]
 type = "place"
 name = "Chrám Kiyomizu-dera"
 city = "Kyoto"
 duration = "1 hodina"
-time = 2021-03-12 14:00:00+09:00
+time = 2021-03-14 14:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -261,7 +297,7 @@ name = "Chrám Hasedera"
 city = "Kamakura"
 duration = "1 hodina"
 picture = "https://www.hasedera.jp/common/img/intro-05s.jpg"
-time = 2021-03-12 16:00:00+09:00
+time = 2021-03-14 16:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -270,9 +306,10 @@ duration = "1 hodina"
 
 [[tl]]
 type = "place"
-name = "Hosťovský dom Iroh"
+name = "Hosťovský dom Iroha"
 city = "Gojo"
-time = 2021-03-12 18:00:00+09:00
+price = 800
+time = 2021-03-14 18:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -283,7 +320,8 @@ duration = "15 minút"
 type = "place"
 name = "Obchodné centrum Aeon+reštaurácia Shakti"
 city = "Gojo"
-time = 2021-03-12 19:00:00+09:00
+price = 120
+time = 2021-03-14 19:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -292,13 +330,14 @@ duration = "15 minút"
 
 [[tl]]
 type = "place"
-name = "Hosťovský dom Iroh"
+name = "Hosťovský dom Iroha"
 city = "Gojo"
-time = 2021-03-12 21:00:00+09:00
+time = 2021-03-14 21:00:00+09:00
 
 [[tl]]
 type = "day"
 number = 5
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d5110.084775443908!2d138.18525846763575!3d36.65982590605747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x6006d104cf592653%3A0x3432accc2f3a2a6e!2sGuest%20House%20Iroha%2C%202%20Chome-2%20Gojo%2C%20Nara%2C%20Japonsko!3m2!1d34.3515818!2d135.69854329999998!4m5!1s0x60066538d0de7b61%3A0xb33bdb057e03bbd8!2sKumano%2C%20Mie%2C%20Japonsko!3m2!1d33.888519699999996!2d136.1002268!4m5!1s0x600670fd8d5436e1%3A0x54a85389e6284d64!2sSukiya%20R42%20Kumano%2C%20Idoch%C5%8D%2C%20Kumano%2C%20Mie%2C%20Japonsko!3m2!1d33.8845629!2d136.0976423!4m5!1s0x601d0e850a9a5999%3A0x902d0e20fabcf654!2sMatsumoto%20Castle%2C%204-1%20Marunouchi%2C%20Matsumoto%2C%20Nagano%2C%20Japonsko!3m2!1d36.238653!2d137.9688674!4m5!1s0x601d86e4a4105b6b%3A0x788a9f0d331d1d9d!2zbGEgcmVuY29udHJlLCDmnbHkuYvploDnlLotMzI4IE5hZ2FubywgSmFwb25za28!3m2!1d36.6582705!2d138.1887296!4m5!1s0x601d86e30af0e64f%3A0xe8ec15212308f4c!2zTWF0c3V5YSBSeW9rYW4sIDQ4NCDlhYPlloTnlLogTmFnYW5vLCAzODAtMDg1MSwgSmFwb25za28!3m2!1d36.659201599999996!2d138.1874699!5e0!3m2!1ssk!2ssk!4v1615458203115!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
 
 [[tl]]
 type = "transport"
@@ -311,7 +350,7 @@ name = "Príroda mesta Kumano"
 city = "Kumano"
 duration = "2 hodiny 10 minút"
 picture = "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F130502162809-kumano-kodo-21.jpg"
-time = 2021-03-12 09:40:00+09:00
+time = 2021-03-15 09:40:00+09:00
 
 [[tl]]
 type = "transport"
@@ -322,7 +361,8 @@ duration = "10 minút"
 type = "place"
 name = "Občerstvenie v Sukiya R42 Kumano takeaway Gyudon"
 city = "Kumano"
-time = 2021-03-12 12:00:00+09:00
+price = 40
+time = 2021-03-15 12:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -335,7 +375,7 @@ name = "Hrad Matsumoto"
 city = "Nagano"
 duration = "1 hodina"
 picture = "https://www.touristinjapan.com/wp-content/uploads/2018/08/JapanCanon_2015-10-18_11-17-06-1020x600.jpg"
-time = 2021-03-12 17:00:00+09:00
+time = 2021-03-15 17:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -345,9 +385,10 @@ duration = "1 hodina"
 
 [[tl]]
 type = "place"
-name = "Reštaurácia la renconte"
+name = "Reštaurácia la rencontre"
 city = "Nagano"
-time = 2021-03-12 19:00:00+09:00
+price = 100
+time = 2021-03-15 19:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -358,12 +399,14 @@ duration = "2 minúty"
 type = "place"
 name = "Motel Jizokan Matsuya Ryokan"
 city = "Nagano"
+price = 1050
 picture = "https://media-cdn.tripadvisor.com/media/photo-s/0e/88/78/10/front-of-the-ryokan.jpg"
-time = 2021-03-12 20:00:00+09:00
+time = 2021-03-15 20:00:00+09:00
 
 [[tl]]
 type = "day"
 number = 6
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d820442.8969838513!2d137.18881394120973!3d36.55760739905238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x601d86e30af0e64f%3A0xe8ec15212308f4c!2zTWF0c3V5YSBSeW9rYW4sIDQ4NCDlhYPlloTnlLogTmFnYW5vLCAzODAtMDg1MSwgSmFwb25za28!3m2!1d36.659201599999996!2d138.1874699!4m5!1s0x5ff7cb3fb986c123%3A0x8e4d178c6facb31b!2sChubusangaku%20National%20Park%2C%2012883-1%20Chikuniotsu%2C%20Otari%2C%20Nagano%2C%20Japonsko!3m2!1d36.4543841!2d137.6236372!4m5!1s0x5ff7ee9a2676bc07%3A0xa9e04c6329b57e7d!2zU25vdyBDb3JyaWRvciwg44OW44OK5Z2CLTExIEFzaGlrdXJhamksIFRhdGV5YW1hLCBUb2phbWEsIEphcG9uc2tv!3m2!1d36.5760814!2d137.59159359999998!4m5!1s0x5ff7e99ca8e9e319%3A0xc63a2d93c2b2e65!2sTateyama%2C%20Tojama%2C%20Japonsko!3m2!1d36.663466199999995!2d137.3137323!4m5!1s0x601d86e30af0e64f%3A0xe8ec15212308f4c!2zTWF0c3V5YSBSeW9rYW4sIE1vdG95b3NoaWNobyDlhYPlloTnlLogTmFnYW5vLCBKYXBvbnNrbw!3m2!1d36.659201599999996!2d138.1874699!5e0!3m2!1ssk!2ssk!4v1615458475838!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
 
 [[tl]]
 type = "transport"
@@ -375,7 +418,7 @@ type = "place"
 name = "Chubusangaku National Park"
 city = "Nagano"
 duration = "2 hodiny"
-time = 2021-03-12 10:00:00+09:00
+time = 2021-03-16 10:00:00+09:00
 picture = "https://hikesinjapan.yamakei-online.com/uploads/T_001_chubusangaku22.jpg"
 
 [[tl]]
@@ -387,9 +430,10 @@ duration = "1 hodina"
 type = "place"
 name = "Prechod snežným koridorom"
 desc = "Takeout obed po ceste"
+price = 40
 picture = "https://res.cloudinary.com/jnto/image/upload/w_1000,fl_lossy,f_auto/v1516728817/toyama/Toyama1209_4"
 city = "Nagano"
-time = 2021-03-12 13:00:00+09:00
+time = 2021-03-16 13:00:00+09:00
 
 [[tl]]
 type = "place"
@@ -397,7 +441,7 @@ name = "Turistika na vrch Tate"
 city = "Nagano"
 picture = "https://insidejapan.ams3.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2018/07/Oyama-Shrine-at-3003m-720x540.jpg"
 duration = "5 hodín"
-time = 2021-03-12 14:00:00+09:00
+time = 2021-03-16 14:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -409,18 +453,19 @@ type = "place"
 name = "Motel Jizokan Matsuya Ryokan"
 city = "Nagano"
 picture = "https://cf.bstatic.com/xdata/images/hotel/max1024x768/5077108.webp?k=35723d3e54366b4b54eed02fdb6dc58b8dea8b463014e046d9861c10fc7f156b&o="
-time = 2021-03-12 20:00:00+09:00
+time = 2021-03-16 20:00:00+09:00
 
 [[tl]]
 type = "day"
 number = 7
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d408715.0453383541!2d138.23818950550302!3d36.84040936241058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x601d86e30af0e64f%3A0xe8ec15212308f4c!2zTWF0c3V5YSBSeW9rYW4sIDQ4NCDlhYPlloTnlLogTmFnYW5vLCAzODAtMDg1MSwgSmFwb25za28!3m2!1d36.659201599999996!2d138.1874699!4m5!1s0x601d805de6344499%3A0xf128a974072892c8!2sNagano%2C%20Japonsko!3m2!1d36.6485258!2d138.1950371!4m5!1s0x601e0c30854365cb%3A0x2b9b7c103f661bad!2sHoshi%20Onsen%20Ch%C5%8Djukan%2C%20650%20Nagai%2C%20Minakami%2C%20Gunma%2C%20Japonsko!3m2!1d36.743957699999996!2d138.83020589999998!4m5!1s0x601d8602e351563b%3A0x752d0ead7b5d7daa!2sMcDonald&#39;s%2C%20391-1%20Kitaowaribe%2C%20Nagano%2C%20Japonsko!3m2!1d36.655289499999995!2d138.23716729999998!4m5!1s0x601d86e30af0e64f%3A0xe8ec15212308f4c!2zTWF0c3V5YSBSeW9rYW4sIE1vdG95b3NoaWNobyDlhYPlloTnlLogTmFnYW5vLCBKYXBvbnNrbw!3m2!1d36.659201599999996!2d138.1874699!5e0!3m2!1ssk!2ssk!4v1615458576859!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
 
 [[tl]]
 type = "place"
 name = "Historické pamiatky Nagana"
 city = "Nagano"
 duration = "4 hodiny"
-time = 2021-03-12 19:00:00+09:00
+time = 2021-03-17 19:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -431,9 +476,10 @@ duration = "3 hodiny"
 type = "place"
 name = "Hoshi Onsen Choujukan"
 city = "Nagai, Minakami"
+price = 35
 picture = "https://cf.bstatic.com/xdata/images/hotel/max1024x768/20790323.webp?k=6f8f897eeea84a6d51805e1c0032f9c5115656c07eb60c5c640fb84bb37b4a11&o="
 duration = "2 hodiny"
-time = 2021-03-12 15:00:00+09:00
+time = 2021-03-17 15:00:00+09:00
 
 [[tl]]
 type = "transport"
@@ -444,18 +490,20 @@ duration = "3 hodiny"
 type = "place"
 name = "McDonald's"
 city = "Nagano"
-time = 2021-03-12 18:30:00+09:00
+price = 40
+time = 2021-03-17 18:30:00+09:00
 
 [[tl]]
 type = "place"
 name = "Motel Jizokan Matsuya Ryokan"
 city = "Nagano"
 picture = "https://cf.bstatic.com/xdata/images/hotel/max1024x768/5077108.webp?k=35723d3e54366b4b54eed02fdb6dc58b8dea8b463014e046d9861c10fc7f156b&o="
-time = 2021-03-12 21:00:00+09:00
+time = 2021-03-17 21:00:00+09:00
 
 [[tl]]
 type = "day"
 number = 8
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d204871.14616603544!2d137.87823758150347!3d36.64776433851933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x601d86e30af0e64f%3A0xe8ec15212308f4c!2zTWF0c3V5YSBSeW9rYW4sIDQ4NCDlhYPlloTnlLogTmFnYW5vLCAzODAtMDg1MSwgSmFwb25za28!3m2!1d36.659201599999996!2d138.1874699!4m5!1s0x5ff7d1e34aa1fee7%3A0xd024f55aeb1b3513!2zSGFrdWJhIOeZvemmrOadkQ!3m2!1d36.6981614!2d137.8619333!4m5!1s0x601d86e30af0e64f%3A0xe8ec15212308f4c!2zTWF0c3V5YSBSeW9rYW4sIE1vdG95b3NoaWNobyDlhYPlloTnlLogTmFnYW5vLCBKYXBvbnNrbw!3m2!1d36.659201599999996!2d138.1874699!5e0!3m2!1ssk!2ssk!4v1615458654450!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
 
 [[tl]]
 type = "place"
@@ -463,11 +511,12 @@ name = "Turistika na horu Hakuba"
 city = "Nagano"
 duration = "10 hodín"
 picture = "https://a1.cdn.japantravel.com/photo/8168-56726/800!/nagano-climbing-mount-karamatsu-56726.jpg"
-time = 2021-03-12 09:00:00+09:00
+time = 2021-03-18 09:00:00+09:00
 
 [[tl]]
 type = "day"
 number = 9
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d1642393.2446716735!2d137.86860165303227!3d36.48656314493296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x601d86e30af0e64f%3A0xe8ec15212308f4c!2zTWF0c3V5YSBSeW9rYW4sIDQ4NCDlhYPlloTnlLogTmFnYW5vLCAzODAtMDg1MSwgSmFwb25za28!3m2!1d36.659201599999996!2d138.1874699!4m5!1s0x601fa4b7c69ac8d1%3A0x6f526b42961dd1c0!2sNikko%2C%20To%C4%8Digi%2C%20Japonsko!3m2!1d36.7198987!2d139.6982361!4m5!1s0x601f7529895d9409%3A0xe5545c34507fdf81!2zQmFpbiBNYXJpZSwg77yS77yQLTQgSW1haWNoaWhvbmNoxY0sIE5pa2tvLCBUb8SNaWdpLCBKYXBvbnNrbw!3m2!1d36.717672!2d139.69648899999999!4m5!1s0x601fa0c50058feb7%3A0xaa70a4403876bb73!2sNikko%20Station%2C%20Aioicho%2C%20Nikko%2C%20To%C4%8Digi%2C%20Japonsko!3m2!1d36.747448!2d139.6220397!4m5!1s0x601fa8c8c0b0bec1%3A0x279c9f58ca43568d!2zS2Vnb24gRmFsbHMsIENoxatnxatzaGksIE5pa2tvLCBUb8SNaWdpLCBKYXBvbnNrbw!3m2!1d36.7380883!2d139.5019412!4m5!1s0x601faec54ce13607%3A0xde8db6c0b336b74d!2sHoshino%20Resorts%20KAI%20Nikko%2C%202482-1%20Ch%C5%ABg%C5%ABshi%2C%20Nikko%2C%20To%C4%8Digi%2C%20Japonsko!3m2!1d36.7364807!2d139.49667349999999!5e0!3m2!1ssk!2ssk!4v1615458940722!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
 
 [[tl]]
 type = "transport"
@@ -481,39 +530,42 @@ city = "Nikko"
 duration = "1 hodín"
 #picture = "https://static.thousandwonders.net/Nikko.original.35344.jpg"
 picture = "http://2.bp.blogspot.com/-tsOn1g-MPDw/VavTGWFrd7I/AAAAAAAAClw/P0P6GHmwaTc/s400/Nikko%252BCity%25252C%252BJapan..png"
-time = 2021-03-12 11:00:00+09:00
+time = 2021-03-19 11:00:00+09:00
 
 [[tl]]
 type = "place"
 name = "Obed v Nikko Bain Marie"
 city = "Nikko"
+price = 70
 picture = "https://www.bain-marie.jp/wp-content/uploads/top_slide002.jpg"
-time = 2021-03-12 12:00:00+09:00
+time = 2021-03-19 12:00:00+09:00
 
 [[tl]]
 type = "place"
 name = "Pamiatky v Nikko"
 city = "Nikko"
 picture = "https://www.japan-guide.com/g19/740/3802_top.jpg"
-time = 2021-03-12 13:00:00+09:00
+time = 2021-03-19 13:00:00+09:00
 
 [[tl]]
 type = "place"
 name = "Vodopády Kegon Falls"
 city = "Nikko"
 picture = "https://mariesmiles.com/wp-content/uploads/2019/01/Kegon-Falls-Nikko-1024x684.jpg"
-time = 2021-03-12 16:00:00+09:00
+time = 2021-03-19 16:00:00+09:00
 
 [[tl]]
 type = "place"
 name = "Hoshino resorts KAI Nikko"
 city = "Nikko"
+price = 1200
 picture = "https://d3s3ousecbrwfp.cloudfront.net/images/2014/03/20233258/c3a82f5a5699d7f5cb3a175ad3227908.jpg"
-time = 2021-03-12 18:00:00+09:00
+time = 2021-03-19 18:00:00+09:00
 
 [[tl]]
 type = "day"
 number = 10
+map = """<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d826290.6344918413!2d139.44320700047103!3d36.00325011419161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x601faec54ce13607%3A0xde8db6c0b336b74d!2sHoshino%20Resorts%20KAI%20Nikko%2C%202482-1%20Ch%C5%ABg%C5%ABshi%2C%20Nikko%2C%20To%C4%8Digi%2C%20Japonsko!3m2!1d36.7364807!2d139.49667349999999!4m5!1s0x6022f379d1bd3757%3A0xd56e29a162771aa1!2sMedzin%C3%A1rodn%C3%A9%20letisko%20Narita%2C%20Furugome%2C%20Narita%2C%20%C4%8Ciba%2C%20Japonsko!3m2!1d35.7719867!2d140.3928501!5e0!3m2!1ssk!2ssk!4v1615459009303!5m2!1ssk!2ssk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>"""
 
 [[tl]]
 type = "transport"
@@ -524,7 +576,8 @@ duration = "3 hodiny"
 type = "place"
 name = "Letisko"
 city = "Narito"
-time = 2021-03-12 17:50:00+09:00
+price = 4520
+time = 2021-03-20 17:50:00+09:00
 
 [[tl]]
 type = "transport"
@@ -535,7 +588,7 @@ duration = "10 hodín 25 minút"
 type = "place"
 name = "Letisko Hamad"
 city = "Doha (Katar)"
-time = 2021-03-12 07:15:00+03:00
+time = 2021-03-20 07:15:00+03:00
 
 [[tl]]
 type = "transport"
@@ -546,4 +599,4 @@ duration = "7 hodín 25 minút"
 type = "place"
 name = "Letisko Heathrow"
 city = "Londýn"
-time = 2021-03-10 14:40:00+00:00
+time = 2021-03-20 14:40:00+00:00
